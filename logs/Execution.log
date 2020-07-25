@@ -1,0 +1,7 @@
+23:10:17.385 [main] INFO  utility.Base - Inititate chrome browser
+23:10:23.277 [main] INFO  utility.Base - Initiated chrome browser
+23:10:25.413 [main] INFO  utility.Base - Browser has been maximized
+23:10:30.773 [main] INFO  utility.Base - Jobseeker's Login: Search the Best Jobs available in India & Abroad - Naukri.com
+23:10:31.284 [main] INFO  testclasses.LoginTest - Username has been entered
+23:10:31.615 [main] INFO  testclasses.LoginTest - Password has been entered
+23:10:31.831 [main] INFO  testclasses.LoginTest - Login button has been clicked
